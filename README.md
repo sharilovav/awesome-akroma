@@ -98,11 +98,13 @@ These are items where you can help Akroma grow
 - [aka.pool.sexy](http://aka.pool.sexy)
 - [ucrypto.net](https://ucrypto.net/pools/)
 - [aka.signal2noi.se](http://aka.signal2noi.se)
+- [2Miners](https://2miners.com/aka-mining-pool)
 
 ### Social
 - [Reddit - Unoffical](https://reddit.com/r/akroma_io/)
 
 ### Swag / Shirts / Stickers
+- [Akroma (AKA) Coin Logo T-Shirt](https://www.amazon.com/dp/B07GHB5ZLC)
 
 ### Articles / Videos / Guides
 - [JustHash - Interview](https://justhash.me/interview-with-a-developer-eric-polerecky-founder-of-akroma/)

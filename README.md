@@ -101,7 +101,7 @@ These are items where you can help Akroma grow
 - [2Miners](https://2miners.com/aka-mining-pool)
 
 ### Social
-- [Reddit - Unoffical](https://reddit.com/r/akroma_io/)
+- [Reddit](https://reddit.com/r/akroma/)
 
 ### Swag / Shirts / Stickers
 - [Akroma (AKA) Coin Logo T-Shirt](https://www.amazon.com/dp/B07GHB5ZLC)

@@ -35,7 +35,7 @@
 ### Software
 
 #### Wallets
-- [Web Wallet](https://wallet.akroma.io/)
+- [Web Wallet](https://w.akroma.io/)
 - [Android Wallet](https://play.google.com/store/apps/details?id=com.wallet.crypto.akroma&hl=en)
 
 #### Portfolio

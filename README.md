@@ -32,6 +32,10 @@
 ### Whitepaper Translations
 - [Romanian](https://docs.google.com/document/d/13wSsvkiN0RXPY0gpgrDyqJ56uFv-XjplyZFcOwFqoF0)
 
+### Merchants (pay with AKA)
+- [whopper - cold storage](https://whopper.io/)
+- [MyCryptoStats](https://mycryptostats.com)
+
 ### Software
 
 #### Wallets

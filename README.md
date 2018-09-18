@@ -106,6 +106,7 @@ These are items where you can help Akroma grow
 
 ### Swag / Shirts / Stickers
 - [Akroma (AKA) Coin Logo T-Shirt](https://www.amazon.com/dp/B07GHB5ZLC)
+- [QR Code Generator](https://cwaqrgen.com/akroma)
 
 ### Articles / Videos / Guides
 - [JustHash - Interview](https://justhash.me/interview-with-a-developer-eric-polerecky-founder-of-akroma/)

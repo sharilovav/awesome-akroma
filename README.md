@@ -68,6 +68,7 @@ These are items where you can help Akroma grow
 
 ### Mining
 - [CoinCalculators](https://www.coincalculators.io/coin.aspx?crypto=akroma-mining-calculator)
+- [WhereToMine](https://www.wheretomine.io/coins/akroma.html)
 
 #### Miners
 - [AIO Miner](https://aiominer.com/)

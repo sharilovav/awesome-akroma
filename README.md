@@ -91,19 +91,16 @@ These are items where you can help Akroma grow
 
 #### Pools
 - [akroma.minerpool.net](http://akroma.minerpool.net)
-- [aka.vipool.net](http://aka.vipool.net)
 - [akroma.cryptopools.info](http://akroma.cryptopools.info)
 - [mining.akroma.org](http://mining.akroma.org)
 - [clona.ru](http://clona.ru)
-- [aka.miningpeon.net](http://aka.miningpeon.net)
-- [aka.encryptglobe.com](http://aka.encryptglobe.com)
-- [akroma.miningpool.fun](http://akroma.miningpool.fun)
 - [akroma.cryptowarlords.net](http://akroma.cryptowarlords.net)
 - [aikapool.com](http://aikapool.com)
 - [aka.pool.sexy](http://aka.pool.sexy)
 - [ucrypto.net](https://ucrypto.net/pools/)
 - [aka.signal2noi.se](http://aka.signal2noi.se)
 - [2Miners](https://2miners.com/aka-mining-pool)
+- [Akroma.ovh](http://www.akroma.ovh/)
 
 ### Social
 - [Reddit](https://reddit.com/r/akroma/)

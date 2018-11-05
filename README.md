@@ -55,7 +55,7 @@
 - [hodl](https://itunes.apple.com/us/app/hodl-real-time-cryptocurrency/id1253668876?mt=8)
 
 ### Exchanges
-- [stocks.exchange](https://stocks.exchange/trade/AKA/BTC)
+- [stex](https://app.stex.com/en/trade/pair/BTC/AKA/1D)
 - [graviex](https://graviex.net/markets/akabtc)
 
 ### Market Information

@@ -32,6 +32,7 @@
 ### Merchants (pay with AKA)
 - [whopper - cold storage](https://whopper.io/)
 - [MyCryptoStats](https://mycryptostats.com)
+- [Swirl](https://swirlpay.io/)
 
 ### Software
 

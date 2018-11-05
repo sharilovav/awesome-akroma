@@ -16,7 +16,7 @@
 - [Akroma Blog](https://medium.com/akroma)
 - [Twitter](https://twitter.com/akroma_io/)
 - [Discord](https://discordapp.com/invite/KWC8wtT)
-- [Explorer API Documentation](https://api.akroma.io/docs)
+- [Documentation](https://docs.akroma.io)
 
 ### Masternodes
 - [Official Install Guide](http://bit.ly/2FHk2x6)
